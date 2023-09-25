@@ -1,0 +1,45 @@
+{
+  "name": "dashgo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/core": "^0.8.0",
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@hookform/resolvers": "^3.3.1",
+    "apexcharts": "^3.42.0",
+    "axios": "^1.5.0",
+    "framer-motion": "^10.16.2",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-apexcharts": "^1.4.1",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.46.1",
+    "react-icons": "^4.10.1",
+    "react-query": "^3.39.3",
+    "yup": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/faker": "5.5.9",
+    "@types/node": "^20.5.8",
+    "@types/react": "^18.2.21",
+    "@typescript-eslint/eslint-plugin": "^6.5.0",
+    "@typescript-eslint/parser": "^6.5.0",
+    "eslint": "^8.48.0",
+    "eslint-plugin-react": "^7.33.2",
+    "faker": "5.5.3",
+    "miragejs": "^0.1.47",
+    "typescript": "^5.2.2"
+  },
+  "main": "index.js",
+  "author": "<antonio.gugou@gmail.com>",
+  "license": "MIT"
+}
